@@ -51,12 +51,13 @@ Follow the instructions in the notebook to execute each cell and proceed with th
 ## Dependencies
 The notebook relies on the following libraries and frameworks:
 
-Python (3.7 or above)
-NumPy
-Pandas
-Matplotlib
-Seaborn
-Scikit-learn
+* Python (3.7 or above)
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn
+* Scikit-learn
+
 Ensure that these dependencies are installed before running the notebook.
 
 
